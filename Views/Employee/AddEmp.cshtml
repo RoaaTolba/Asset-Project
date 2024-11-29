@@ -1,0 +1,172 @@
+﻿@model Employee
+@{
+    ViewData["Title"] = "AddEmp";
+    SelectList genderlist = new SelectList(ViewBag.Gender,"Id", "Name");
+}
+    <div class="container-fluid">
+        <section id="horizontal-form-layouts">
+            <div class="row">
+                <div class="col-sm-12">
+                    <h2 class="content-header">Add Employees Form</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="card">
+                        <div class="card-header">
+                            <div class="card-title-wrap bar-success">
+                                <h4 class="card-title" id="horz-layout-basic">Employee Information</h4>
+                            </div>
+                            @* <p class="mb-0">This is the basic horizontal form with labels on left and cost estimation form is the default position.</p> *@
+                        </div>
+                        <div class="card-body">
+                            <div class="px-3">
+                                <form asp-action="SaveAddEmp" asp-controller="Employee" class="form form-horizontal">
+                                    <div asp-validation-summary="All"></div>
+                                    <div class="form-body">
+                                        <h4 class="form-section"><i class="icon-user"></i> Personal Details</h4>
+                                        <div class="form-group row">
+                                            <label asp-for="Name" class="col-md-3 label-control">Name: </label>
+                                            <div class="col-md-9">
+                                                <input asp-for="Name" type="text" class="form-control">
+                                            </div>
+                                            <span asp-validation-for="Name" class="text-danger"></span>
+                                        </div>
+                                        <div class="form-group row">
+                                            <label asp-for="Address" class="col-md-3 label-control">Address: </label>
+                                            <div class="col-md-9">
+                                                <input asp-for="Address" type="text" class="form-control" >
+                                            </div>
+                                            <span asp-validation-for="Address" class="text-danger"></span>
+                                        </div>
+
+                                        <div class="form-group row">
+                                            <label asp-for="Email" class="col-md-3 label-control">E-mail: </label>
+                                            <div class="col-md-9">
+                                                <input asp-for="Email" type="text" class="form-control" >
+                                            </div>
+                                            <span asp-validation-for="Email" class="text-danger"></span>
+                                        </div>
+
+                                        <div class="form-group row">
+                                            <label asp-for="ContactNumber" class="col-md-3 label-control">Contact Number: </label>
+                                            <div class="col-md-9">
+                                                <input asp-for="ContactNumber" type="text" class="form-control">
+                                            </div>
+                                            <span asp-validation-for="ContactNumber" class="text-danger"></span>
+                                        </div>
+
+                                        <h4 class="form-section">
+                                            <i class="icon-book-open"></i>Other Details
+                                        </h4>
+                                        <div class="form-group row">
+                                            <label asp-for="BirthDate" class="col-md-3 label-control">Birth date: </label>
+                                            <div class="col-md-9">
+                                                <div class="position-relative has-icon-left">
+                                                    <input asp-for="BirthDate" type="date" class="form-control" >
+                                                    <div class="form-control-position ml-2">
+                                                        <i class="ft-message-square"></i>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <span asp-validation-for="BirthDate" class="text-danger"></span>
+                                        </div>
+                                        <div class="form-group row">
+                                            <label asp-for="Gender" class="col-md-3 label-control">Gender: </label>
+                                            <div class="col-md-9">
+                                                <select asp-for="Gender_id" asp-items="genderlist" class="form form-control"></select>
+                                                @* <input asp-for="Gender" type="text" id="projectinput9" class="form-control" name="Type"> *@
+                                            </div>
+                                            <span asp-validation-for="Gender_id" class="text-danger"></span>
+                                        </div>
+                                        <div class="form-group row">
+                                            <label asp-for="date_of_contract" class="col-md-3 label-control">Date of contract: </label>
+                                            <div class="col-md-9">
+                                                <div class="position-relative has-icon-left">
+                                                <input asp-for="date_of_contract" type="date" class="form-control">
+                                                    <div class="form-control-position ml-2">
+                                                        <i class="ft-message-square"></i>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <span asp-validation-for="date_of_contract" class="text-danger"></span>
+                                        </div>
+                                        <div class=" row">
+                                            <div class="col-md-12">
+                                                <div class=" row form-group">
+                                                    <label asp-for="start_time" class="col-md-3 label-control">Start time: </label>
+                                                    <div class="position-relative has-icon-left col-lg-9">
+                                                        <input asp-for="start_time" type="time" class="form-control" >
+                                                        <div class="form-control-position ml-2">
+                                                            <i class="ft-clock"></i>
+                                                        </div>
+                                                        <span asp-validation-for="start_time" class="text-danger"></span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-12">
+                                                <div class=" row form-group">
+                                                    <label asp-for="end_time" class="col-md-3 label-control">End time: </label>
+                                                    <div class="position-relative has-icon-left col-lg-9">
+                                                        <input asp-for="end_time" type="time" class="form-control" >
+                                                        <div class="form-control-position ml-2">
+                                                            <i class="ft-clock"></i>
+                                                        </div>
+                                                        <span asp-validation-for="end_time" class="text-danger"></span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="row form-group">
+                                            <label asp-for="Salary" class="col-md-3 label-control" >Salary: </label>
+                                        <div class="col-md-9">
+                                            <input asp-for="Salary" type="text" class="form-control" >
+                                            </div>
+                                            <span asp-validation-for="Salary" class="text-danger"></span>
+                                        </div>
+                                        <div class="form-group row">
+                                            <label asp-for="SSN" class="col-md-3 label-control" >National ID: </label>
+                                            <div class="col-md-9">
+                                                <input asp-for="SSN" type="text" class="form-control">
+                                            </div>
+                                        <span asp-validation-for="SSN" class="text-danger"></span>
+
+                                        </div>
+                                        <div class="form-group row">
+                                            <label asp-for="Nationality" class="col-md-3 label-control" >Nationality: </label>
+                                            <div class="col-md-9">
+                                                <input asp-for="Nationality" type="text" class="form-control">
+                                            </div>
+                                        <span asp-validation-for="Nationality" class="text-danger"></span>
+                                        </div>
+
+                                        <div class="form-group row">
+                                            <label asp-for="Note" class="col-md-3 label-control" >Notes: </label>
+                                            <div class="col-md-9">
+                                                <textarea asp-for="Note" rows="5" class="form-control" ></textarea>
+                                            </div>
+                                        <span asp-validation-for="Note" class="text-danger"></span>
+                                        </div>
+                                        <div class="form-actions">
+                                            <button type="button" class="btn btn-danger mr-1" asp-controller="Home" asp-action="Index">
+                                                <i class="icon-trash"></i> Cancel
+                                            </button>
+                                            <button type="submit" value="add" class="btn btn-success">
+                                                <i class="icon-note"></i> Save
+                                            </button>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>

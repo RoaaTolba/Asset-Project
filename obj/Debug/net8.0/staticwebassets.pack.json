@@ -1,0 +1,1421 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AssetsPro.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AssetsPro.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\fonts\\feather\\fonts\\feather2467.eot",
+      "PackagePath": "staticwebassets\\fonts\\feather\\fonts\\feather2467.eot"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\fonts\\feather\\fonts\\feather2467.svg",
+      "PackagePath": "staticwebassets\\fonts\\feather\\fonts\\feather2467.svg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\fonts\\feather\\fonts\\feather2467.ttf",
+      "PackagePath": "staticwebassets\\fonts\\feather\\fonts\\feather2467.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\fonts\\feather\\fonts\\feather2467.woff",
+      "PackagePath": "staticwebassets\\fonts\\feather\\fonts\\feather2467.woff"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\fonts\\feather\\style.min.css",
+      "PackagePath": "staticwebassets\\fonts\\feather\\style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\fonts\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\fonts\\meteocons\\fonts\\meteoconsddea.eot",
+      "PackagePath": "staticwebassets\\fonts\\meteocons\\fonts\\meteoconsddea.eot"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\fonts\\meteocons\\fonts\\meteoconsddea.ttf",
+      "PackagePath": "staticwebassets\\fonts\\meteocons\\fonts\\meteoconsddea.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\fonts\\meteocons\\style.min.css",
+      "PackagePath": "staticwebassets\\fonts\\meteocons\\style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\fonts\\simple-line-icons\\fonts\\Simple-Line-Icons.eot",
+      "PackagePath": "staticwebassets\\fonts\\simple-line-icons\\fonts\\Simple-Line-Icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\fonts\\simple-line-icons\\fonts\\Simple-Line-Icons.svg",
+      "PackagePath": "staticwebassets\\fonts\\simple-line-icons\\fonts\\Simple-Line-Icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\fonts\\simple-line-icons\\fonts\\Simple-Line-Icons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\simple-line-icons\\fonts\\Simple-Line-Icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\fonts\\simple-line-icons\\fonts\\Simple-Line-Iconsd41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\simple-line-icons\\fonts\\Simple-Line-Iconsd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\fonts\\simple-line-icons\\style.css",
+      "PackagePath": "staticwebassets\\fonts\\simple-line-icons\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\employeeImg.jpg",
+      "PackagePath": "staticwebassets\\img\\employeeImg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\flags\\br.png",
+      "PackagePath": "staticwebassets\\img\\flags\\br.png"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\flags\\de.png",
+      "PackagePath": "staticwebassets\\img\\flags\\de.png"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\flags\\es.png",
+      "PackagePath": "staticwebassets\\img\\flags\\es.png"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\flags\\us.png",
+      "PackagePath": "staticwebassets\\img\\flags\\us.png"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\gallery\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\gallery\\10.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\gallery\\11.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\gallery\\12.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\gallery\\14.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\gallery\\16.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\gallery\\17.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\gallery\\18.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\gallery\\19.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\gallery\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\gallery\\20.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\gallery\\21.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\gallery\\22.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\gallery\\23.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\gallery\\24.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\gallery\\25.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\gallery\\26.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\gallery\\27.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\gallery\\28.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\gallery\\29.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\gallery\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\gallery\\30.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\gallery\\31.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\gallery\\32.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\32.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\gallery\\33.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\gallery\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\gallery\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\gallery\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\gallery\\7.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\gallery\\8.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\gallery\\9.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\ico\\apple-icon-120.html",
+      "PackagePath": "staticwebassets\\img\\ico\\apple-icon-120.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\ico\\apple-icon-152.html",
+      "PackagePath": "staticwebassets\\img\\ico\\apple-icon-152.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\ico\\apple-icon-60.html",
+      "PackagePath": "staticwebassets\\img\\ico\\apple-icon-60.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\ico\\apple-icon-76.html",
+      "PackagePath": "staticwebassets\\img\\ico\\apple-icon-76.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\ico\\favicon-32.png",
+      "PackagePath": "staticwebassets\\img\\ico\\favicon-32.png"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\pages\\sativa.png",
+      "PackagePath": "staticwebassets\\img\\pages\\sativa.png"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\pages\\signature-scan.png",
+      "PackagePath": "staticwebassets\\img\\pages\\signature-scan.png"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\pattern_h.png",
+      "PackagePath": "staticwebassets\\img\\pattern_h.png"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\photos\\01.jpg",
+      "PackagePath": "staticwebassets\\img\\photos\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\photos\\02.jpg",
+      "PackagePath": "staticwebassets\\img\\photos\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\photos\\03.jpg",
+      "PackagePath": "staticwebassets\\img\\photos\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\photos\\04.jpg",
+      "PackagePath": "staticwebassets\\img\\photos\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\photos\\05.jpg",
+      "PackagePath": "staticwebassets\\img\\photos\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\photos\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\photos\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\photos\\14.jpg",
+      "PackagePath": "staticwebassets\\img\\photos\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\photos\\15.jpg",
+      "PackagePath": "staticwebassets\\img\\photos\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\photos\\16.jpg",
+      "PackagePath": "staticwebassets\\img\\photos\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\photos\\17.jpg",
+      "PackagePath": "staticwebassets\\img\\photos\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\photos\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\photos\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\photos\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\photos\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\photos\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\photos\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\photos\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\photos\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\photos\\7.jpg",
+      "PackagePath": "staticwebassets\\img\\photos\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\photos\\8.jpg",
+      "PackagePath": "staticwebassets\\img\\photos\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\portfolio\\portfolio-1.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\portfolio\\portfolio-2.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\portfolio\\portfolio-3.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\portfolio\\portfolio-4.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\portfolio\\portfolio-5.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\portfolio\\portfolio-6.jpg",
+      "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\portrait\\medium\\avatar-m-9.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\medium\\avatar-m-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\portrait\\small\\avatar-s-1.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\small\\avatar-s-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\portrait\\small\\avatar-s-11.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\small\\avatar-s-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\portrait\\small\\avatar-s-12.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\small\\avatar-s-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\portrait\\small\\avatar-s-14.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\small\\avatar-s-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\portrait\\small\\avatar-s-15.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\small\\avatar-s-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\portrait\\small\\avatar-s-16.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\small\\avatar-s-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\portrait\\small\\avatar-s-17.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\small\\avatar-s-17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\portrait\\small\\avatar-s-18.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\small\\avatar-s-18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\portrait\\small\\avatar-s-19.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\small\\avatar-s-19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\portrait\\small\\avatar-s-20.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\small\\avatar-s-20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\portrait\\small\\avatar-s-21.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\small\\avatar-s-21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\portrait\\small\\avatar-s-22.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\small\\avatar-s-22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\portrait\\small\\avatar-s-23.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\small\\avatar-s-23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\portrait\\small\\avatar-s-24.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\small\\avatar-s-24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\portrait\\small\\avatar-s-27.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\small\\avatar-s-27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\portrait\\small\\avatar-s-3.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\small\\avatar-s-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\portrait\\small\\avatar-s-4.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\small\\avatar-s-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\portrait\\small\\avatar-s-5.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\small\\avatar-s-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\portrait\\small\\avatar-s-6.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\small\\avatar-s-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\portrait\\small\\avatar-s-7.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\small\\avatar-s-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\portrait\\small\\avatar-s-8.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\small\\avatar-s-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\portrait\\small\\avatar-s-9.jpg",
+      "PackagePath": "staticwebassets\\img\\portrait\\small\\avatar-s-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\sidebar-bg\\01.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar-bg\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\sidebar-bg\\02.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar-bg\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\sidebar-bg\\03.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar-bg\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\sidebar-bg\\04.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar-bg\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\sidebar-bg\\05.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar-bg\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\sidebar-bg\\06.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar-bg\\06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\sidebar-bg\\07.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar-bg\\07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\sidebar-bg\\08.jpg",
+      "PackagePath": "staticwebassets\\img\\sidebar-bg\\08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\slide.PNG",
+      "PackagePath": "staticwebassets\\img\\slide.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\slide2.PNG",
+      "PackagePath": "staticwebassets\\img\\slide2.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\slide3.PNG",
+      "PackagePath": "staticwebassets\\img\\slide3.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\width-600\\portfolio-14.jpg",
+      "PackagePath": "staticwebassets\\img\\width-600\\portfolio-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\js\\Attendance.js",
+      "PackagePath": "staticwebassets\\js\\Attendance.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\js\\app-sidebar.js",
+      "PackagePath": "staticwebassets\\js\\app-sidebar.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\js\\app.js",
+      "PackagePath": "staticwebassets\\js\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\js\\chartist.js",
+      "PackagePath": "staticwebassets\\js\\chartist.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\js\\chartjs.js",
+      "PackagePath": "staticwebassets\\js\\chartjs.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\js\\chat.js",
+      "PackagePath": "staticwebassets\\js\\chat.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\js\\coming-soon.js",
+      "PackagePath": "staticwebassets\\js\\coming-soon.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\js\\components-modal.min.js",
+      "PackagePath": "staticwebassets\\js\\components-modal.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\js\\confirmDelete.js",
+      "PackagePath": "staticwebassets\\js\\confirmDelete.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\js\\customizer.js",
+      "PackagePath": "staticwebassets\\js\\customizer.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\js\\dashboard-analytics.js",
+      "PackagePath": "staticwebassets\\js\\dashboard-analytics.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\js\\dashboard-ecommerce.js",
+      "PackagePath": "staticwebassets\\js\\dashboard-ecommerce.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\js\\data-tables\\datatable-advanced.js",
+      "PackagePath": "staticwebassets\\js\\data-tables\\datatable-advanced.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\js\\data-tables\\datatable-api.js",
+      "PackagePath": "staticwebassets\\js\\data-tables\\datatable-api.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\js\\data-tables\\datatable-basic.js",
+      "PackagePath": "staticwebassets\\js\\data-tables\\datatable-basic.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\js\\data-tables\\datatable-styling.js",
+      "PackagePath": "staticwebassets\\js\\data-tables\\datatable-styling.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\js\\data-tables\\datatables-sources.js",
+      "PackagePath": "staticwebassets\\js\\data-tables\\datatables-sources.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\js\\draggable.js",
+      "PackagePath": "staticwebassets\\js\\draggable.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\js\\dropzone.js",
+      "PackagePath": "staticwebassets\\js\\dropzone.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\js\\emloyeeData.js",
+      "PackagePath": "staticwebassets\\js\\emloyeeData.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\js\\form-typeahead.js",
+      "PackagePath": "staticwebassets\\js\\form-typeahead.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\js\\form-validation.js",
+      "PackagePath": "staticwebassets\\js\\form-validation.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\js\\fullcalendar.js",
+      "PackagePath": "staticwebassets\\js\\fullcalendar.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\js\\horizontal-timeline.min.js",
+      "PackagePath": "staticwebassets\\js\\horizontal-timeline.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\js\\maps.js",
+      "PackagePath": "staticwebassets\\js\\maps.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\js\\notification-sidebar.js",
+      "PackagePath": "staticwebassets\\js\\notification-sidebar.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\js\\pick-a-datetime.js",
+      "PackagePath": "staticwebassets\\js\\pick-a-datetime.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\js\\popover.js",
+      "PackagePath": "staticwebassets\\js\\popover.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\js\\quill.min.js",
+      "PackagePath": "staticwebassets\\js\\quill.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\js\\rating.js",
+      "PackagePath": "staticwebassets\\js\\rating.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\js\\sweet-alerts.js",
+      "PackagePath": "staticwebassets\\js\\sweet-alerts.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\js\\switch.min.js",
+      "PackagePath": "staticwebassets\\js\\switch.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\js\\tagging.js",
+      "PackagePath": "staticwebassets\\js\\tagging.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\js\\taskboard.js",
+      "PackagePath": "staticwebassets\\js\\taskboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\js\\toastr.min.js",
+      "PackagePath": "staticwebassets\\js\\toastr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\js\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\js\\tour.min.js",
+      "PackagePath": "staticwebassets\\js\\tour.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\js\\wizard-steps.js",
+      "PackagePath": "staticwebassets\\js\\wizard-steps.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\chartist.min.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\chartist.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\dragula.min.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\dragula.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\dropzone.min.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\dropzone.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_AMS-Regular-2.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_AMS-Regular-2.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_AMS-Regular-3.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_AMS-Regular-3.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_AMS-Regular-4.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_AMS-Regular-4.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_AMS-Regular.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_AMS-Regular.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Caligraphic-Bold-2.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Caligraphic-Bold-2.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Caligraphic-Bold-3.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Caligraphic-Bold-3.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Caligraphic-Bold-4.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Caligraphic-Bold-4.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Caligraphic-Bold.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Caligraphic-Bold.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Caligraphic-Regular-2.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Caligraphic-Regular-2.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Caligraphic-Regular-3.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Caligraphic-Regular-3.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Caligraphic-Regular-4.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Caligraphic-Regular-4.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Caligraphic-Regular.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Caligraphic-Regular.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Fraktur-Bold-2.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Fraktur-Bold-2.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Fraktur-Bold-3.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Fraktur-Bold-3.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Fraktur-Bold-4.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Fraktur-Bold-4.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Fraktur-Bold.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Fraktur-Bold.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Fraktur-Regular-2.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Fraktur-Regular-2.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Fraktur-Regular-3.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Fraktur-Regular-3.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Fraktur-Regular-4.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Fraktur-Regular-4.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Fraktur-Regular.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Fraktur-Regular.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Main-Bold-2.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Main-Bold-2.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Main-Bold-3.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Main-Bold-3.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Main-Bold-4.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Main-Bold-4.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Main-Bold.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Main-Bold.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Main-Italic-2.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Main-Italic-2.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Main-Italic-3.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Main-Italic-3.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Main-Italic-4.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Main-Italic-4.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Main-Italic.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Main-Italic.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Main-Regular-2.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Main-Regular-2.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Main-Regular-3.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Main-Regular-3.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Main-Regular.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Main-Regular.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Main-Regular.woff2",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Main-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Math-Italic-2.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Math-Italic-2.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Math-Italic-3.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Math-Italic-3.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Math-Italic.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Math-Italic.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Math-Italic.woff2",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Math-Italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_SansSerif-Regular-2.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_SansSerif-Regular-2.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_SansSerif-Regular-3.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_SansSerif-Regular-3.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_SansSerif-Regular-4.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_SansSerif-Regular-4.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_SansSerif-Regular.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_SansSerif-Regular.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Script-Regular-2.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Script-Regular-2.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Script-Regular-3.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Script-Regular-3.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Script-Regular-4.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Script-Regular-4.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Script-Regular.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Script-Regular.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Size1-Regular-2.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Size1-Regular-2.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Size1-Regular-3.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Size1-Regular-3.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Size1-Regular-4.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Size1-Regular-4.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Size1-Regular.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Size1-Regular.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Size2-Regular-2.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Size2-Regular-2.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Size2-Regular-3.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Size2-Regular-3.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Size2-Regular-4.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Size2-Regular-4.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Size2-Regular.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Size2-Regular.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Size3-Regular-2.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Size3-Regular-2.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Size3-Regular-3.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Size3-Regular-3.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Size3-Regular-4.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Size3-Regular-4.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Size3-Regular.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Size3-Regular.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Size4-Regular-2.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Size4-Regular-2.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Size4-Regular-3.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Size4-Regular-3.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Size4-Regular-4.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Size4-Regular-4.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Size4-Regular.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Size4-Regular.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Typewriter-Regular-2.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Typewriter-Regular-2.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Typewriter-Regular-3.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Typewriter-Regular-3.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Typewriter-Regular-4.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Typewriter-Regular-4.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fonts\\KaTeX_Typewriter-Regular.html",
+      "PackagePath": "staticwebassets\\vendors\\css\\fonts\\KaTeX_Typewriter-Regular.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\fullcalendar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\hopscotch.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\hopscotch.css"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\katex.min.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\katex.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\monokai-sublime.min.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\monokai-sublime.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\perfect-scrollbar.min.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\perfect-scrollbar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\pickadate\\pickadate.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\pickadate\\pickadate.css"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\prism.min.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\prism.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\quill.bubble.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\quill.bubble.css"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\quill.snow.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\quill.snow.css"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\raty\\fonts\\raty.eot",
+      "PackagePath": "staticwebassets\\vendors\\css\\raty\\fonts\\raty.eot"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\raty\\fonts\\raty.svg",
+      "PackagePath": "staticwebassets\\vendors\\css\\raty\\fonts\\raty.svg"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\raty\\fonts\\raty.ttf",
+      "PackagePath": "staticwebassets\\vendors\\css\\raty\\fonts\\raty.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\raty\\fonts\\raty.woff",
+      "PackagePath": "staticwebassets\\vendors\\css\\raty\\fonts\\raty.woff"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\raty\\fonts\\ratyd41d.eot",
+      "PackagePath": "staticwebassets\\vendors\\css\\raty\\fonts\\ratyd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\raty\\jquery.raty.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\raty\\jquery.raty.css"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\sweetalert2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\switchery.min.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\switchery.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\tables\\datatable\\datatables.min.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\tables\\datatable\\datatables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\tables\\datatable\\responsive.dataTables.min.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\tables\\datatable\\responsive.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\tagging.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\tagging.css"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\toastr.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\toastr.css"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\css\\wizard.css",
+      "PackagePath": "staticwebassets\\vendors\\css\\wizard.css"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\img\\tour\\cross.html",
+      "PackagePath": "staticwebassets\\vendors\\img\\tour\\cross.html"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\chart.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\chartist.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\chartist.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\core\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\core\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\datatable\\buttons.flash.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\datatable\\buttons.flash.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\datatable\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\datatable\\buttons.html5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\datatable\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\datatable\\buttons.print.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\datatable\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\datatable\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\datatable\\dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\datatable\\dataTables.responsive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\datatable\\datatables.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\datatable\\datatables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\datatable\\jszip.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\datatable\\jszip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\datatable\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\datatable\\pdfmake.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\datatable\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\datatable\\vfs_fonts.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\dragula.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\dragula.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\dropzone.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\dropzone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\fullcalendar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\gmaps.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\highlight.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\highlight.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\hopscotch.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\hopscotch.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\jqBootstrapValidation.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\jqBootstrapValidation.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\jquery.matchHeight-min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\jquery.matchHeight-min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\jquery.raty.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\jquery.raty.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\jquery.steps.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\jquery.steps.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\katex.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\katex.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\pace\\pace.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\pace\\pace.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\perfect-scrollbar.jquery.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\perfect-scrollbar.jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\pickadate\\legacy.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\pickadate\\legacy.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\pickadate\\picker.date.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\pickadate\\picker.date.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\pickadate\\picker.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\pickadate\\picker.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\pickadate\\picker.time.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\pickadate\\picker.time.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\prism.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\prism.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\quill.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\quill.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\screenfull.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\screenfull.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\sweetalert2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\switchery.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\switchery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\tagging.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\tagging.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\toastr.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\toastr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\typeahead\\bloodhound.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\typeahead\\bloodhound.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\typeahead\\handlebars.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\typeahead\\handlebars.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\vendors\\js\\typeahead\\typeahead.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendors\\js\\typeahead\\typeahead.bundle.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AssetsPro.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AssetsPro.props",
+      "PackagePath": "build\\AssetsPro.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AssetsPro.props",
+      "PackagePath": "buildMultiTargeting\\AssetsPro.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AssetsPro.props",
+      "PackagePath": "buildTransitive\\AssetsPro.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

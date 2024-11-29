@@ -1,0 +1,79 @@
+﻿@model Attendance
+@{
+    ViewData["Title"] = "Attendance";
+    SelectList emps = new SelectList(ViewBag.Emps, "Id", "Name");
+}
+
+<div class="container-fluid">
+    <!-- Main Section for Attendance and Departure Requests -->
+    <section id="attendance-section">
+        <div class="card">
+            <div class="card-header">
+                <h4 class="card-title">Attendance and Departure Request</h4>
+            </div>
+            <div class="card-body">
+                <!-- Temporary Table Display for Added Records -->
+                <table class="table table-striped table-bordered">
+                    <thead>
+                        <tr id="tr">
+                            <th class="text-center">Id</th>
+                            <th class="text-center">Employee Name</th>
+                            <th class="text-center">Date</th>
+                            <th class="text-center">Attendance Hour</th>
+                            <th class="text-center">Check-out Hour</th>
+                            <th class="text-center">Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- This section will be dynamically populated with JavaScript -->
+                    </tbody>
+                </table>
+            </div>
+
+            <!-- Form for Adding New Attendance Records -->
+            <div class="card-header">
+                <h4 class="card-title">Add Attendance Record</h4>
+            </div>
+            <div class="card-body">
+                <div class="px-3">
+                    <form id="attendance-form" class="form form-horizontal">
+                        <div class="form-body">
+                            <div class="form-group row">
+                                <label class="col-md-3 label-control">Employee Name:</label>
+                                <div class="col-md-9">
+                                    <select name="Emp_Id" asp-for="Emp_Id" asp-items="emps" class="form-control"></select>
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label class="col-md-3 label-control">Date:</label>
+                                <div class="col-md-9">
+                                    <input type="date" name="date" class="form-control" id="currentDate">
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label class="col-md-3 label-control">Start Time:</label>
+                                <div class="col-md-9">
+                                    <input type="time" name="starttime" class="form-control">
+                                </div>
+                            </div>
+                            <div class="form-group row">
+                                <label class="col-md-3 label-control">End Time:</label>
+                                <div class="col-md-9">
+                                    <input type="time" name="endtime" class="form-control">
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+            <!-- Action Buttons -->
+            <div class="form-actions">
+                <button type="button" class="btn btn-danger" onclick="clearForm()">Cancel</button>
+                <button type="button" class="btn btn-success" onclick="addTemporaryRecord()">Add Record</button>
+                <button type="button" class="btn btn-primary" onclick="finishDay()">Finish Day</button>
+            </div>
+        </div>
+    </section>
+</div>
+

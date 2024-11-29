@@ -1,0 +1,120 @@
+﻿@model List<Employee>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/views/shared/_Layout.cshtml";
+}
+
+        <!-- Zero configuration table -->
+        <section id="configuration">
+            <div class="row">
+                <div class="col-12">
+                    <div class="card">
+                        <div class="card-header">
+                            <div class="card-title-wrap bar-success">
+                                <h4 class="card-title">Employees Information</h4>
+                            </div>
+                        </div>
+                        <div class="card-body collapse show" style="overflow-x: scroll; overflow-y: hidden;">
+                            <div class="card-block card-dashboard">
+
+                                <div class="row">
+                                    <div class="col-sm-12 col-md-3">
+                                        <div class="dataTables_length" id="DataTables_Table_0_length"><label>Show 
+                                            <select name="DataTables_Table_0_length" aria-controls="DataTables_Table_0" class="form-control form-control-sm">
+                                                <option value="10">10</option><option value="25">25</option><option value="50">50</option><option value="100">
+                                                    100</option>
+                                            </select> </label>
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="col-sm-12 col-md-3">
+                                        <div id="DataTables_Table_0_filter" class="dataTables_filter"><label>Search:<input type="search" 
+                                            class="form-control form-control-sm" placeholder="" aria-controls="DataTables_Table_0"></label>
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="col-lg-2">
+                                        <button class="btn btn-primary mb-2"><a href="~/Employee/AddEmp">Add new Employee</a>
+                                        </button>
+                                    </div>
+                                    <input type="hidden" id="selected-row-id" />
+                                    @* <div class="col-lg-1">
+                                     <a asp-controller="Employee" asp-action="Edit" asp-route-id="" disabled>
+                                         <button style="background-color:darkblue; color:white;" class="btn mb-2" disabled>
+                                                 Edit
+                                         </button>
+                                     </a>
+                                    </div>
+                                    <div class="col-lg-1">
+                                        <button style="background-color:darkred" class="btn mb-2">
+                                            <a href="#">Delete</a>
+                                        </button>
+                                    </div> *@
+                                        
+
+                                </div>
+                        @if (Model != null && Model.Any())
+                        {
+                            <table class="table table-striped zero-configeration table-bordered table-hover table-xl mb-0">
+                                <thead>
+                                    <tr>
+                                        <th class="border-top-0">Id</th>
+                                        <th class="border-top-0">Name</th>
+                                        <th class="border-top-0">Address</th>
+                                        <th class="border-top-0">Email</th>
+                                        <th class="border-top-0">ContactNumber</th>
+                                        <th class="border-top-0">BirthDate</th>
+                                        <th class="border-top-0">Gender</th>
+                                        <th class="border-top-0">Date of contract</th>
+                                        <th class="border-top-0">Start time</th>
+                                        <th class="border-top-0">End time</th>
+                                        <th class="border-top-0">Salary</th>
+                                        <th class="border-top-0">SSN</th>
+                                        <th class="border-top-0">Nationality</th>
+                                        <th class="border-top-0"></th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in Model)
+                                    {
+                                        <tr asp-for="@item.Id" data-id="@item.Id" class="clickable-row" selectable-row employee-id="@item.Id">
+                                            <td>@item.Id</td>
+                                            <td>@item.Name</td>
+                                            <td>@item.Address</td>
+                                            <td>@item.Email</td>
+                                            <td>@item.ContactNumber</td>
+                                            <td>@item.BirthDate.ToString("MM/dd/yyyy")</td>
+                                            <td>@item.Gender.Name</td>
+                                            <td>@item.date_of_contract.ToString("MM/dd/yyyy")</td>
+                                            <td>@item.start_time</td>
+                                            <td>@item.end_time</td>
+                                            <td>@item.Salary</td>
+                                            <td>@item.SSN</td>
+                                            <td>@item.Nationality</td>
+                                            <td>
+                                                <a asp-controller="Employee" asp-action="Edit"    asp-route-id="@item.Id">Edit</a>
+                                                @* <a asp-controller="Employee" asp-action="Delete"  asp-route-id="@item.Id" style="color:darkred" onclick="return confirm('Are you sure that you want to delete this record?')">Delete</a> *@
+                                                <a href="javascript:void(0);"
+                                                   style="color:darkred;"
+                                                   onclick="confirmDelete(@item.Id)">Delete</a>
+
+                                                <a asp-controller="Employee" asp-action="Details" asp-route-id="@item.Id" style="color:seagreen">Details</a>
+                                                    
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        }
+                        else
+                        {
+                            <p>No employees found.</p>
+                        }
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    <!-- ////////////////////////////////////////////////////////////////////////////-->

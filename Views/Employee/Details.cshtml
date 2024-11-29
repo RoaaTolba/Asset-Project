@@ -1,0 +1,34 @@
+﻿@model Employee
+@{
+    ViewData["Title"] = "Details";
+    
+}
+<div class="card" style="width:400px">
+    <img class="card-img-top" src="~/img/employeeimg.jpg" alt="Card image">
+    @if (Model != null)
+    {
+        <div style="padding-left:10px" class="card-body">
+            <h4 class="card-title">@Model.Name</h4>
+            <br />
+            <div style="padding-left:10px" class="card-body">
+                <p class="card-text">Email: @Model.Email</p>
+                <p class="card-text">Contact Number: @Model.ContactNumber</p>
+                <p class="card-text">Address: @Model.Address</p>
+                <p class="card-text">Gender: @Model.Gender.Name</p>
+                <p class="card-text">Birth day: @Model.BirthDate.ToString("MM/dd/yyyy")</p>
+                <p class="card-text">Date of contract: @Model.date_of_contract.ToString("MM/dd/yyyy")</p>
+                <p class="card-text">Start time: @Model.start_time</p>
+                <p class="card-text">End time: @Model.end_time</p>
+            </div>
+        </div>
+    }
+    else
+    {
+        <p>Employee details are not available.</p>
+    }
+    <br />
+    <form asp-controller="Employee" asp-action="Index" style="display: flex;justify-content: center;" method="get">
+        <button type="submit" style="padding-left:150px;padding-right:150px;" class="btn btn-deep-orange">Go back</button>
+    </form>
+
+</div>

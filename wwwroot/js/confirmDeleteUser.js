@@ -1,12 +1,12 @@
-﻿function confirmDelete(id) {
-    // Confirm the deletion
+﻿function confirmDeleteUser(id) {
     if (confirm('Are you sure that you want to delete this record?')) {
-        // Send a POST request to delete the employee
-        fetch(`/Employee/Delete/${id}`, {
+        const csrfToken = document.querySelector('input[name="__RequestVerificationToken"]').value; // Get token
+
+        fetch(`/User/Delete/${id}`, {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
-                'RequestVerificationToken': '@Antiforgery.GetTokens(HttpContext).RequestToken' // CSRF token for security if needed
+                'RequestVerificationToken': csrfToken // Pass the token
             }
         })
             .then(response => {

@@ -1,0 +1,90 @@
+﻿@inject IAuthorizationService AuthorizationService
+@using AssetsPro.Constants
+@model List<AppUserViewModel>
+
+@{
+    ViewData["Title"] = "ShowUsers";
+}
+
+<div class="container-fluid">
+
+    <form id="deleteForm" method="post">
+        @Html.AntiForgeryToken() <!-- This will generate a hidden field with the CSRF token -->
+    </form>
+
+
+    <!-- Zero configuration table -->
+    <section id="configuration">
+        <div class="row">
+            <div class="col-12">
+                <div class="card">
+                    <div class="card-header">
+                        <div class="card-title-wrap bar-success">
+                            <h4 class="card-title">Users Information</h4>
+                        </div>
+                    </div>
+                    <div class="card-body collapse show">
+                        <div class="card-block card-dashboard">
+                            <table class="table table-striped table-bordered zero-configuration">
+                                <thead>
+                                    <tr>
+                                        <th>Id</th>
+                                        <th>Name</th>
+                                        <th>User name</th>
+                                        <th>Email</th>
+                                        <th>Group</th>
+                                        <th></th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @for (int i = Model.Count-1, j=0; i >=0 ;j++, i--)
+                                                            {
+                                        var item = Model[i];
+                                        <tr asp-for="@item.Id" data-id="@item.Id" class="clickable-row" selectable-row employee-id="@item.Id">
+                                            <td>@(j + 1)</td> <!-- Counter starts from 1 -->
+                                            <td>@item.Name</td>
+                                            <td>@item.UserName</td>
+                                            <td>@item.Email</td>
+                                            <td>@item.RoleName</td>
+                                            <td>
+                                                @if (AuthorizationService.AuthorizeAsync(User, Permessions.Users.Edit).Result.Succeeded)
+                                                {
+                                                    <a asp-controller="User" asp-action="Edit" asp-route-id="@item.Id" style="margin-right: 10px; color: blue;">Edit </a>
+                                                }
+                                                @if (AuthorizationService.AuthorizeAsync(User, Permessions.Users.Delete).Result.Succeeded)
+                                                {
+                                                    <a href="javascript:void(0);"
+                                                    style="color:darkred;" 
+                                                    onclick="confirmDeleteUser('@item.Id')">
+                                                        Delete
+                                                    </a>
+                                                }
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+
+<script>
+    // Wait for the DOM content to be fully loaded
+    document.addEventListener("DOMContentLoaded", function () {
+        // Get the delete form element
+        const deleteForm = document.getElementById("deleteForm");
+
+        // Show the form (optional: if it's hidden initially)
+        deleteForm.style.display = "block";
+
+        // Set a timeout to hide the form after 5 seconds (5000 milliseconds)
+        setTimeout(() => {
+            deleteForm.style.display = "none";
+        }, 5000);
+    });
+</script>

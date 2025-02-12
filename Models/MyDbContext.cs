@@ -1,10 +1,11 @@
-﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System.Data;
 
 namespace AssetsPro.Models
 {
-    public class MyDbContext:DbContext
+    public class MyDbContext:IdentityDbContext<ApplicationUser>
     {
         public MyDbContext() : base()  { }
         public MyDbContext(DbContextOptions options):base(options) { }

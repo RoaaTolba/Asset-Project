@@ -1,9 +1,12 @@
 ﻿using AssetsPro.Interfaces;
 using AssetsPro.Models;
+using AssetsPro.Constants;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AssetsPro.Controllers
 {
+    //[Authorize(Permessions.Attendance.Show)]
     public class AttendanceController : Controller
     {
         private readonly IAttendanceService service;

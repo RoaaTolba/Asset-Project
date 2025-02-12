@@ -1,5 +1,7 @@
 ﻿using AssetsPro.Interfaces;
 using AssetsPro.Models;
+using AssetsPro.Constants;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.CodeAnalysis.Scripting;
 
@@ -12,10 +14,12 @@ namespace AssetsPro.Controllers
         {
             this.empService = empService;
         }
+        [Authorize(Permessions.Employee.Show)]
         public IActionResult Index()
         {
             return View(empService.GetAllEmp());
         }
+        [Authorize(Permessions.Employee.Add)]
         public IActionResult AddEmp()
         {  
             ViewData["Gender"] = empService.GetAllGender();
@@ -34,7 +38,7 @@ namespace AssetsPro.Controllers
             return View("AddEmp",newemp);
         }
         //Edit and Delete still didn't it
-
+        [Authorize(Permessions.Employee.Edit)]
         public IActionResult Edit(int id)
         {
             ViewData["Gender"] = empService.GetAllGender();
@@ -55,6 +59,7 @@ namespace AssetsPro.Controllers
             return View("Edit",newEmp);
         }
         [HttpPost]
+        [Authorize(Permessions.Employee.Delete)]
         public IActionResult Delete(int id)
         {
             var succes = empService.deleteEmp(id);

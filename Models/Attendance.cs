@@ -7,17 +7,20 @@ namespace AssetsPro.Models
     public class Attendance
     {
         public int Id { get; set; }
+
         [Required(ErrorMessage = "Date is required...")]
-        [DataType(DataType.Date)]
-        [DateRangeUntilToday("01-01-2000")]
-        public DateTime DateTime { get; set; }
+        public string DateTime { get; set; } // Store as string in MM-dd-yyyy format
+
         [Required(ErrorMessage = "StartTime is required...")]
-        public TimeSpan StartTime { get; set; }
+        public string StartTime { get; set; }
+
         [Required(ErrorMessage = "EndTime is required...")]
-        public TimeSpan? EndTime { get; set; }
+        public string EndTime { get; set; }
+
         [ForeignKey(nameof(Employee))]
-        [Display(Name ="Employee")]
+        [Display(Name = "Employee")]
         public int Emp_Id { get; set; }
+
         public virtual Employee? Employee { get; set; }
     }
 }

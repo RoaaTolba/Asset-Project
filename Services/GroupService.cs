@@ -5,15 +5,14 @@ namespace AssetsPro.Services
 {
     public class GroupService : IGroupService
     {
+        MyDbContext context = new MyDbContext();
+
         public void Delete(int id)
         {
             throw new NotImplementedException();
         }
 
-        public IEnumerable<Group> GetAllGroups()
-        {
-            throw new NotImplementedException();
-        }
+        public IEnumerable<Group> GetAllGroups() => context.Groups.ToList();
 
         public Group GetById(int id)
         {

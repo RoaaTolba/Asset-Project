@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\css\\loginpage.css",
+      "PackagePath": "staticwebassets\\css\\loginpage.css"
+    },
+    {
       "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -235,6 +239,14 @@
     {
       "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\ico\\favicon-32.png",
       "PackagePath": "staticwebassets\\img\\ico\\favicon-32.png"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\ico\\profile.png",
+      "PackagePath": "staticwebassets\\img\\ico\\profile.png"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\ico\\user.png",
+      "PackagePath": "staticwebassets\\img\\ico\\user.png"
     },
     {
       "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\img\\pages\\sativa.png",
@@ -509,8 +521,12 @@
       "PackagePath": "staticwebassets\\js\\components-modal.min.js"
     },
     {
-      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\js\\confirmDelete.js",
-      "PackagePath": "staticwebassets\\js\\confirmDelete.js"
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\js\\confirmDeleteEmp.js",
+      "PackagePath": "staticwebassets\\js\\confirmDeleteEmp.js"
+    },
+    {
+      "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\js\\confirmDeleteUser.js",
+      "PackagePath": "staticwebassets\\js\\confirmDeleteUser.js"
     },
     {
       "Id": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\js\\customizer.js",

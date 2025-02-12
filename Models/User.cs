@@ -13,10 +13,12 @@ namespace AssetsPro.Models
         [Required(ErrorMessage = "Password is required.")]
         [DataType(DataType.Password)]
         public string Password { get; set; }
+        [DataType(DataType.EmailAddress)]
+        public string Email { get; set; }
         
-        [ForeignKey(nameof(Group))]
-        [Display(Name = nameof(Group))]
-        public int Group_id { get; set; }
-        public virtual Group? Group { get; set; }
+        //[ForeignKey(nameof(Group))]
+        //[Display(Name = nameof(Group))]
+        //public int Group_id { get; set; }
+        //public virtual Group? Group { get; set; }
     }
 }

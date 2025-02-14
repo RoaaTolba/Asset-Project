@@ -3,19 +3,43 @@
   "WorkspaceRootPath": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7EBC9649-FB7C-4AB7-9895-2FE8FED9DED7}|AssetsPro.csproj|c:\\users\\roaa\\source\\repos\\assetspro\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EBC9649-FB7C-4AB7-9895-2FE8FED9DED7}|AssetsPro.csproj|solutionrelative:models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7EBC9649-FB7C-4AB7-9895-2FE8FED9DED7}|AssetsPro.csproj|c:\\users\\roaa\\source\\repos\\assetspro\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7EBC9649-FB7C-4AB7-9895-2FE8FED9DED7}|AssetsPro.csproj|solutionrelative:wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_LVA4E65_MSSQLSERVER01/AssetsDB/True/SqlTable/dbo.Attendances.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{7EBC9649-FB7C-4AB7-9895-2FE8FED9DED7}|AssetsPro.csproj|c:\\users\\roaa\\source\\repos\\assetspro\\views\\role\\addrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7EBC9649-FB7C-4AB7-9895-2FE8FED9DED7}|AssetsPro.csproj|solutionrelative:views\\role\\addrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBC9649-FB7C-4AB7-9895-2FE8FED9DED7}|AssetsPro.csproj|c:\\users\\roaa\\source\\repos\\assetspro\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7EBC9649-FB7C-4AB7-9895-2FE8FED9DED7}|AssetsPro.csproj|solutionrelative:views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBC9649-FB7C-4AB7-9895-2FE8FED9DED7}|AssetsPro.csproj|c:\\users\\roaa\\source\\repos\\assetspro\\views\\attendance\\showsalaryreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7EBC9649-FB7C-4AB7-9895-2FE8FED9DED7}|AssetsPro.csproj|solutionrelative:views\\attendance\\showsalaryreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBC9649-FB7C-4AB7-9895-2FE8FED9DED7}|AssetsPro.csproj|c:\\users\\roaa\\source\\repos\\assetspro\\views\\attendance\\invoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7EBC9649-FB7C-4AB7-9895-2FE8FED9DED7}|AssetsPro.csproj|solutionrelative:views\\attendance\\invoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7EBC9649-FB7C-4AB7-9895-2FE8FED9DED7}|AssetsPro.csproj|c:\\users\\roaa\\source\\repos\\assetspro\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EBC9649-FB7C-4AB7-9895-2FE8FED9DED7}|AssetsPro.csproj|solutionrelative:controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EBC9649-FB7C-4AB7-9895-2FE8FED9DED7}|AssetsPro.csproj|c:\\users\\roaa\\source\\repos\\assetspro\\views\\attendance\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7EBC9649-FB7C-4AB7-9895-2FE8FED9DED7}|AssetsPro.csproj|solutionrelative:views\\attendance\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7EBC9649-FB7C-4AB7-9895-2FE8FED9DED7}|AssetsPro.csproj|c:\\users\\roaa\\source\\repos\\assetspro\\repos\\attendancerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EBC9649-FB7C-4AB7-9895-2FE8FED9DED7}|AssetsPro.csproj|solutionrelative:repos\\attendancerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBC9649-FB7C-4AB7-9895-2FE8FED9DED7}|AssetsPro.csproj|c:\\users\\roaa\\source\\repos\\assetspro\\services\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EBC9649-FB7C-4AB7-9895-2FE8FED9DED7}|AssetsPro.csproj|solutionrelative:services\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBC9649-FB7C-4AB7-9895-2FE8FED9DED7}|AssetsPro.csproj|c:\\users\\roaa\\source\\repos\\assetspro\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7EBC9649-FB7C-4AB7-9895-2FE8FED9DED7}|AssetsPro.csproj|solutionrelative:views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_LVA4E65_MSSQLSERVER01/AssetsDB/True/SqlTable/dbo.Salaries.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,7 +49,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,51 +57,128 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "dbo.Attendances [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_LVA4E65_MSSQLSERVER01/AssetsDB/True/SqlTable/dbo.Attendances.sql",
-              "ToolTip": "dbo.Attendances [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-02-12T11:06:26.161Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Attendance.cs",
-              "DocumentMoniker": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\Models\\Attendance.cs",
-              "RelativeDocumentMoniker": "Models\\Attendance.cs",
-              "ToolTip": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\Models\\Attendance.cs",
-              "RelativeToolTip": "Models\\Attendance.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T20:30:16.158Z",
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "wwwroot\\css\\app.css",
+              "ViewState": "AgIAAPHrAAAAAAAAAAAQwAbsAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-14T13:55:05.647Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\Views\\Attendance\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Attendance\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\Views\\Attendance\\Index.cshtml",
-              "RelativeToolTip": "Views\\Attendance\\Index.cshtml",
-              "ViewState": "AgIAAJwAAAAAAAAAAAAAwEYBAAAgAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "AddRole.cshtml",
+              "DocumentMoniker": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\Views\\Role\\AddRole.cshtml",
+              "RelativeDocumentMoniker": "Views\\Role\\AddRole.cshtml",
+              "ToolTip": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\Views\\Role\\AddRole.cshtml",
+              "RelativeToolTip": "Views\\Role\\AddRole.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACYAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-28T12:58:01.179Z",
+              "WhenOpened": "2025-02-14T13:46:47.405Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\Views\\Role\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Role\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\Views\\Role\\Index.cshtml",
+              "RelativeToolTip": "Views\\Role\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACkAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T13:45:53.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AttendanceService.cs",
+              "DocumentMoniker": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\Services\\AttendanceService.cs",
+              "RelativeDocumentMoniker": "Services\\AttendanceService.cs",
+              "ToolTip": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\Services\\AttendanceService.cs",
+              "RelativeToolTip": "Services\\AttendanceService.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAcwEUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:31:56.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Invoice.cshtml",
+              "DocumentMoniker": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\Views\\Attendance\\Invoice.cshtml",
+              "RelativeDocumentMoniker": "Views\\Attendance\\Invoice.cshtml",
+              "ToolTip": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\Views\\Attendance\\Invoice.cshtml",
+              "RelativeToolTip": "Views\\Attendance\\Invoice.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T13:20:31.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AttendanceRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\Repos\\AttendanceRepo.cs",
+              "RelativeDocumentMoniker": "Repos\\AttendanceRepo.cs",
+              "ToolTip": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\Repos\\AttendanceRepo.cs",
+              "RelativeToolTip": "Repos\\AttendanceRepo.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAuwHMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:08:02.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbo.Salaries.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_LVA4E65_MSSQLSERVER01/AssetsDB/True/SqlTable/dbo.Salaries.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/DESKTOP_LVA4E65_MSSQLSERVER01/AssetsDB/True/SqlTable/dbo.Salaries.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-14T10:12:24.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "AttendanceController.cs",
               "DocumentMoniker": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\Controllers\\AttendanceController.cs",
               "RelativeDocumentMoniker": "Controllers\\AttendanceController.cs",
               "ToolTip": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\Controllers\\AttendanceController.cs",
               "RelativeToolTip": "Controllers\\AttendanceController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMEAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-28T12:57:50.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShowSalaryReport.cshtml",
+              "DocumentMoniker": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\Views\\Attendance\\ShowSalaryReport.cshtml",
+              "RelativeDocumentMoniker": "Views\\Attendance\\ShowSalaryReport.cshtml",
+              "ToolTip": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\Views\\Attendance\\ShowSalaryReport.cshtml",
+              "RelativeToolTip": "Views\\Attendance\\ShowSalaryReport.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T12:19:37.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAD0AAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T13:06:29.176Z",
               "EditorCaption": ""
             }
           ]

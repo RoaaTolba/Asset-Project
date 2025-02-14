@@ -157,6 +157,13 @@
            startTime: formattedStartTime,
            endTime: formattedEndTime
            });
+        // Sort the tempRecords array by Emp_Id in ascending order
+        tempRecords.sort((a, b) => a.empId - b.empId);
+
+        // Update the Id field based on the sorted order
+        tempRecords.forEach((record, index) => {
+            record.Id = index + 1;
+        });
        displayTempRecords();
        saveRecordsToLocalStorage();
        clearForm();

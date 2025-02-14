@@ -72,12 +72,12 @@
                                         <a href="~/Attendance/Index" class="menu-item">Attendance</a>
                                     </li>
                                 }
-                                <li class=" nav-item">
-                                    <a href="salary_report.html" class="menu-item">Salary report</a>
-                                </li>
-                                <li class=" nav-item settings-option">
-                                    <a href="#" class="menu-item"> General Settings </a>
-                                </li>
+                                @if (AuthorizationService.AuthorizeAsync(User, Permessions.Attendance.Show).Result.Succeeded)
+                                {
+                                    <li class=" nav-item">
+                                        <a href="~/Attendance/ShowSalaryReport" class="menu-item">Salary report</a>
+                                    </li>
+                                }
                             </ul>
                         </li>
                         @if(AuthorizationService.AuthorizeAsync(User,Permessions.Users.Show).Result.Succeeded)
@@ -120,6 +120,7 @@
                                 </ul>
                             </li>
                         }
+
                         <li class=" nav-item">
                             <a href="~/Account/Logout"><i class="icon-pin"></i><span data-i18n="" class="menu-title">Logout</span></a>
                         </li>

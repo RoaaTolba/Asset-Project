@@ -1,0 +1,23 @@
+﻿using System.ComponentModel.DataAnnotations.Schema;
+using System.ComponentModel.DataAnnotations;
+
+namespace AssetsPro.Models
+{
+    public class SalaryReport
+    {
+        [Key]
+        public int Id { get; set; }
+        [ForeignKey(nameof(Employee))]
+        [Display(Name = "Employee")]
+        public int Emp_Id { get; set; }
+        public int Attendance_days { get; set; }
+        public int Absent_days { get; set; }
+        public double Overtime_Hours { get; set; }
+        public double Discount_Hours { get; set; }
+        public int Extra { get; set; }
+        public int Discount { get; set; }
+        public int Total { get; set; }
+        public DateTime CreatedAt { get; set; } = DateTime.Now;
+        public virtual Employee? Employee { get; set; }
+    }
+}

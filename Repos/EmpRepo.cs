@@ -16,21 +16,6 @@ namespace AssetsPro.Repos
         public Employee GetById(int id)=> context.Employees.Include(e => e.Gender).FirstOrDefault(x => x.Id == id);
         public void Insert(Employee newEmp)
         {
-            //Employee newEmployee = new Employee();
-            //newEmployee.Name = newEmp.Name;
-            //newEmployee.Email = newEmp.Email;
-            //newEmployee.Address = newEmp.Address;
-            //newEmployee.Salary = newEmp.Salary;
-            //newEmployee.ContactNumber = newEmp.ContactNumber;
-            //newEmployee.start_time = newEmp.start_time;
-            //newEmployee.end_time = newEmp.end_time;
-            //newEmployee.Gender = newEmp.Gender;
-            //newEmployee.BirthDate = newEmp.BirthDate;
-            //newEmployee.date_of_contract = newEmp.date_of_contract;
-            //newEmployee.Nationality = newEmp.Nationality;
-            //newEmployee.SSN = newEmp.SSN;
-            //newEmployee.Note = newEmp.Note;
-
             context.Employees.Add(newEmp);
             context.SaveChanges();
         }

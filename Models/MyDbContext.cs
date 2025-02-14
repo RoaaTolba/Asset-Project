@@ -15,6 +15,7 @@ namespace AssetsPro.Models
         public DbSet<User> Users { get; set; }
         public DbSet<Group> Groups { get; set; }
         public DbSet<Gender> Genders { get; set; }
+        public DbSet<SalaryReport> Salaries { get; set; }
 
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

@@ -28,9 +28,9 @@ namespace AssetsPro.Models
         [DateRangeUntilToday("01-01-2000")]
         public DateTime date_of_contract { get; set; }
         [Required(ErrorMessage = "Start time is required.")]
-        public TimeOnly start_time { get; set; }
+        public TimeSpan start_time { get; set; }
         [Required(ErrorMessage = "End time is required.")]
-        public TimeOnly end_time { get; set; }
+        public TimeSpan end_time { get; set; }
         [Required]
         [RegularExpression(@"[0-9]{4}",ErrorMessage ="Just 4 numbers")]
         public int Salary { get; set; }

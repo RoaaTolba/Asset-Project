@@ -1,0 +1,133 @@
+﻿@model List<SalaryReportViewModel>
+@{
+    ViewData["Title"] = "ShowSalaryReport";
+}
+
+
+<div class="container-fluid">
+    <!-- Zero configuration table -->
+    <section id="configuration">
+        <div class="row">
+            <div class="col-12">
+                <div class="card">
+                    <div class="card-header">
+                        <div class="card-title-wrap bar-success">
+                            <h4 class="card-title">Salary report</h4>
+                        </div>
+                    </div>
+                    <div class="card-body collapse show">
+                           @*  <div class="row">
+                                <!-- Year Dropdown -->
+                                <div class="dataTables_length">
+                                    <label>
+                                         Year
+                                        <select id="yearDropdown" class="form-control form-control-sm"></select>
+                                    </label>
+                                </div>
+
+                                <!-- Month Dropdown -->
+                                <div class="dataTables_length">
+                                    <label>
+                                        Month
+                                        <select id="monthDropdown" class="form-control form-control-sm"></select>
+                                    </label>
+                                </div>
+
+                                <div class="col-lg-3">
+                                    <button id="addRow" class="btn btn-primary mb-2">
+                                        <i class="ft-search"></i>&nbsp;
+                                        <a>  Search Employee</a>
+                                    </button>
+                                </div>
+                            </div> *@
+                        <div class="card-block card-dashboard" style="overflow-x: scroll; overflow-y: hidden;">
+
+                            <table class="table table-striped table-bordered zero-configuration mt-40">
+                                <thead>
+                                    <tr>
+                                        <th>Id</th>
+                                        <th>Employees_Name</th>
+                                        <th>Phone</th>
+                                        <th>Salary</th>
+                                        <th>Attendance_days</th>
+                                        <th>Absent_days</th>
+                                        <th>Overtime_hours</th>
+                                        <th> Discount_hours</th>
+                                        <th>Extra</th>
+                                        <th>
+                                            discount
+                                        </th>
+                                        <th>Total</th>
+                                    </tr>
+                                </thead>
+                                @foreach(var item in Model)
+                                {
+                                    <tbody>
+                                        <tr>
+                                            <td class="text-center">@item.Id</td>
+                                            <td class="text-center">@item.Name</td>
+                                            <td class="text-center">@item.Phone</td>
+                                            <td class="text-center">@item.Salary</td>
+                                            <td class="text-center">@item.Attendance_days</td>
+                                            <td class="text-center">@item.Absent_days</td>
+                                            <td class="text-center">@item.Overtime_Hours</td>
+                                            <td class="text-center">@item.Discount_Hours</td>
+                                            <td class="text-center">@item.Extra</td>
+                                            <td class="text-center">@item.Discount</td>
+                                            <td class="text-center">@item.Total</td>
+                                            <td class="text-center">
+                                                <a asp-controller="Attendance" asp-action="Invoice" asp-route-id="@item.Id" class="btn btn-danger mb-2">
+                                                    <i class="ft-plus"></i>&nbsp;
+                                                    Invoice
+                                                </a>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                }
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        populateYearDropdown();
+        populateMonthDropdown();
+    });
+
+    function populateYearDropdown() {
+        let yearSelect = document.getElementById("yearDropdown");
+        let currentYear = new Date().getFullYear();
+        let startYear = 2025; // The first selectable year
+
+        // Clear existing options
+        yearSelect.innerHTML = "";
+
+        // Populate years dynamically
+        for (let year = startYear; year <= currentYear; year++) {
+            let option = document.createElement("option");
+            option.value = year;
+            option.textContent = year;
+            yearSelect.appendChild(option);
+        }
+    }
+
+    function populateMonthDropdown() {
+        let monthSelect = document.getElementById("monthDropdown");
+
+        // Clear existing options
+        monthSelect.innerHTML = "";
+
+        // Populate months (1 to 12)
+        for (let month = 1; month <= 12; month++) {
+            let option = document.createElement("option");
+            option.value = month;
+            option.textContent = month;
+            monthSelect.appendChild(option);
+        }
+    }
+</script>

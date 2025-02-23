@@ -12,7 +12,7 @@ namespace AssetsPro.Services
             throw new NotImplementedException();
         }
 
-        public IEnumerable<Group> GetAllGroups() => context.Groups.ToList();
+        //public IEnumerable<Group> GetAllGroups() => context.Groups.ToList();
 
         public Group GetById(int id)
         {

@@ -2057,7 +2057,7 @@ pre code {
 }
 
 .table {
-    width: 60%;
+    width: 100%;
     margin-bottom: 1.5rem;
     background-color: transparent;
 }
@@ -60420,7 +60420,6 @@ form .form-section {
 
 .table-group {
     padding: 0px 50px;
-    width: 300px;
 }
 
 .disactive {

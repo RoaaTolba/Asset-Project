@@ -63,8 +63,10 @@ public class EmpService : IEmpService
         }
         else
         {
-            empRepo.Delete(id);
-            return true;
+            if(empRepo.Delete(id))
+                return true;
+            return false;
+
         }
     }
 }

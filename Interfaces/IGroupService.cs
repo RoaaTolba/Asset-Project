@@ -4,7 +4,7 @@ namespace AssetsPro.Interfaces
 {
     public interface IGroupService
     {
-        public IEnumerable<Group> GetAllGroups();
+        //public IEnumerable<Group> GetAllGroups();
         public Group GetById(int id);
         public void Update(int id, Group newGroup);
         public void Delete(int id);

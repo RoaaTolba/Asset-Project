@@ -40,5 +40,6 @@ namespace AssetsPro.Models
         public string Nationality { get; set; }
         public string? Note { get; set; }
         public virtual Gender? Gender { get; set; }
+        public ICollection<Attendance>? Attendances { get; set; }
     }
 }

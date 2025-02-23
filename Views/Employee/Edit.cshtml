@@ -149,9 +149,10 @@
                                         <span asp-validation-for="Note" class="text-danger"></span>
                                     </div>
                                     <div class="form-actions">
-                                        <button type="button" class="btn btn-danger mr-1" asp-controller="Home" asp-action="Index">
+                                        <a asp-controller="Employee" asp-action="Index" class="btn btn-danger mr-1">
                                             <i class="icon-trash"></i> Cancel
-                                        </button>
+                                        </a>
+
                                         <button type="submit" value="update" class="btn btn-success">
                                             <i class="icon-note"></i> Save
                                         </button>

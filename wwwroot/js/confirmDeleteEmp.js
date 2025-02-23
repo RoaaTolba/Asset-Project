@@ -9,14 +9,14 @@
                 'RequestVerificationToken': '@Antiforgery.GetTokens(HttpContext).RequestToken' // CSRF token for security if needed
             }
         })
-            .then(response => {
-                if (response.ok) {
-                    alert("Employee deleted successfully.");
-                    window.location.reload(); // Reload the page to update the list
-                } else {
-                    alert("Error: Could not delete the employee.");
-                }
-            })
-            .catch(error => console.error('Error:', error));
+        .then(response => {
+            if (response.ok) {
+                alert("Employee deleted successfully.");
+                window.location.reload(); // Reload the page to update the list
+            } else {
+                alert("Error: Could not delete the employee.");
+            }
+        })
+        .catch(error => console.error('Error:', error));
     }
 }

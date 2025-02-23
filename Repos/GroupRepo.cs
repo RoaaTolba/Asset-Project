@@ -12,10 +12,10 @@ namespace AssetsPro.Repos
             throw new NotImplementedException();
         }
 
-        public IEnumerable<Group> GetAllGroups()
-        {
-            return context.Groups.ToList();
-        }
+        //public IEnumerable<Group> GetAllGroups()
+        //{
+        //    return context.Groups.ToList();
+        //}
 
         public Group GetById(int id)
         {

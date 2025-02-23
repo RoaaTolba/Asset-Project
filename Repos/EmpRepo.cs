@@ -1,12 +1,18 @@
 ﻿using AssetsPro.Interfaces;
 using AssetsPro.Models;
 using Microsoft.EntityFrameworkCore;
+using System.Diagnostics;
 
 namespace AssetsPro.Repos
 {
     public class EmpRepo : IEmpRepo
     {
-        MyDbContext context = new MyDbContext();
+        private readonly MyDbContext context;
+
+        public EmpRepo(MyDbContext context)
+        {
+            this.context = context;
+        }
         public IEnumerable<Employee> GetAll()
         {
             IEnumerable<Employee> employees = context.Employees.Include(e => e.Gender)
@@ -40,13 +46,25 @@ namespace AssetsPro.Repos
         }
         public bool Delete(int id)
         {
-            Employee emp = context.Employees.FirstOrDefault(x => x.Id == id);
+            var emp = context.Employees.FirstOrDefault(x => x.Id == id);
             if (emp == null)
             {
                 return false;
             }
-            context.Employees.Remove(emp);
-            context.SaveChanges();
+
+            var att = context.Attendances
+                        .Where(e => e.Emp_Id == id)
+                        .ToList();
+
+            try
+            {
+                if (att != null)
+                {
+                    context.Attendances.RemoveRange(att); // Delete related attendances
+                    context.Employees.Remove(emp); // Delete the employee
+                    context.SaveChanges();
+                }
+            } catch (Exception ex) { Debug.WriteLine(ex.Message); return false; }
             return true;
         }
     }

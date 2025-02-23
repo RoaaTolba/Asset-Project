@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AssetsPro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1987417f18727d0be55de9aec3efe86a6cced067")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a978b28aaa0f5448308e276496cb37d1d07116c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("AssetsPro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AssetsPro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

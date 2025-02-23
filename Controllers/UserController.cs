@@ -100,6 +100,7 @@ namespace AssetsPro.Controllers
                     }
                 }
             }
+            ViewData["RoleList"] = await roleManager.Roles.ToListAsync();
             return View(UserVM);
         }
         [HttpGet]

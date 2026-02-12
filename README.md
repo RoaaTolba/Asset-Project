@@ -3,14 +3,14 @@
 ## Description
 The HR System helps organizations manage employees by tracking attendance, calculating salaries based on attendance, and managing users and roles.
 
----
+
 
 ## Tech Stack
 - **Backend:** .NET Core, ASP.NET MVC, EF Core, Identity, Repository & Service Layer, Middleware, Security
 - **Database:** SQL Server (via EF Core)  
 - **Authentication & Authorization:** ASP.NET Identity with role-based access control, claims-based permissions, and secure access management
   
----
+
 
 ## Requirements
 - **.NET 8 SDK**  
@@ -20,7 +20,7 @@ The HR System helps organizations manage employees by tracking attendance, calcu
   - `Microsoft.EntityFrameworkCore.Tools`  
   - `Microsoft.AspNetCore.Identity.EntityFrameworkCore`  
 
----
+
 
 ## Features
 - Track daily employee attendance  
@@ -31,7 +31,7 @@ The HR System helps organizations manage employees by tracking attendance, calcu
 - View salary reports  
 - Display employee salaries  
 
----
+
 
 ## Usage
 - Admin users can log in and manage employees, users, roles, and permissions.  

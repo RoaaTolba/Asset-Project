@@ -6,7 +6,7 @@ namespace AssetsPro.Interfaces
 {
     public interface IAttendanceRepo
     {
-        public IEnumerable<Attendance> GetAll();
+        public Task<IEnumerable<Attendance>> GetAll();
         public IEnumerable<Employee> GetEmpNames();
         public Attendance GetById(int id);
         public Task<bool> SaveRecords(List<Attendance> records);
@@ -18,5 +18,8 @@ namespace AssetsPro.Interfaces
         public void updateSalary(SalaryReport salaryR);
         public List<SalaryReportViewModel> salaryReportData();
         public SalaryReportViewModel findSalaryById(int id);
+        Task<bool> IsSalaryExistInMonthAsync(int empId);
+        Task InsertSalaryAsync(SalaryReport report);
+        Task UpdateSalaryAsync(SalaryReport report);
     }
 }

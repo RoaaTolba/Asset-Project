@@ -22,16 +22,17 @@ namespace AssetsPro.Controllers
             this.signInManager = signInManager;
             this.roleManager = roleManager;
         }
+
         [HttpGet]
         [AllowAnonymous]
         public IActionResult Login()
         {
             return View();
         }
+
         [HttpPost]
         [ValidateAntiForgeryToken]
         [AllowAnonymous]
-
         public async Task<IActionResult> Login(LoginViewModel userVM)
         {
             if (ModelState.IsValid)
@@ -46,7 +47,7 @@ namespace AssetsPro.Controllers
                         return RedirectToAction("Index", "Home");
                     }
                 }
-                ModelState.AddModelError("", "User name or password is wrong");
+                ModelState.AddModelError("", "Username or password is wrong");
             }
             return View(userVM);
         }

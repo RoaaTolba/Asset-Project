@@ -7,12 +7,12 @@ namespace AssetsPro.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        //private readonly ILogger<HomeController> _logger;
         IEmpService empService;
 
         public HomeController(ILogger<HomeController> logger,IEmpService empService)
         {
-            _logger = logger;
+            //_logger = logger;
             this.empService = empService;
         }
 

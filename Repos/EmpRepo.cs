@@ -51,11 +51,9 @@ namespace AssetsPro.Repos
             {
                 return false;
             }
-
             var att = context.Attendances
                         .Where(e => e.Emp_Id == id)
                         .ToList();
-
             try
             {
                 if (att != null)

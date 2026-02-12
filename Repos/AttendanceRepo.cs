@@ -15,10 +15,11 @@ namespace AssetsPro.Repos
         {
             throw new NotImplementedException();
         }
-        public IEnumerable<Attendance> GetAll()
+        public async Task<IEnumerable<Attendance>> GetAll()
         {
-            return context.Attendances.ToList();
+            return await context.Attendances.ToListAsync();
         }
+
         public Attendance GetById(int id) => context.Attendances.FirstOrDefault(x => x.Id == id);
         public IEnumerable<Employee> GetEmpNames()
         {
@@ -138,6 +139,21 @@ namespace AssetsPro.Repos
                     .FirstOrDefault(x => x.Id == id); // Filter by the provided Id
 
             return salaryData;
+        }
+
+        public Task<bool> IsSalaryExistInMonthAsync(int empId)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task InsertSalaryAsync(SalaryReport report)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task UpdateSalaryAsync(SalaryReport report)
+        {
+            throw new NotImplementedException();
         }
     }
 }

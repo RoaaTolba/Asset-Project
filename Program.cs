@@ -30,7 +30,7 @@ builder.Services.AddScoped<MyDbContext>();
 builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
     .AddCookie(option =>
     {
-        option.LoginPath = "~/Access/Login";
+        option.LoginPath = "~/Account/Login";
         option.ExpireTimeSpan = TimeSpan.FromDays(20);
     });
 builder.Services.Configure<SecurityStampValidatorOptions>

@@ -1,48 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{7EBC9649-FB7C-4AB7-9895-2FE8FED9DED7}|AssetsPro.csproj|c:\\users\\roaa\\source\\repos\\assetspro\\views\\attendance\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7EBC9649-FB7C-4AB7-9895-2FE8FED9DED7}|AssetsPro.csproj|solutionrelative:views\\attendance\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7EBC9649-FB7C-4AB7-9895-2FE8FED9DED7}|AssetsPro.csproj|c:\\users\\roaa\\source\\repos\\assetspro\\views\\employee\\addemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7EBC9649-FB7C-4AB7-9895-2FE8FED9DED7}|AssetsPro.csproj|solutionrelative:views\\employee\\addemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7EBC9649-FB7C-4AB7-9895-2FE8FED9DED7}|AssetsPro.csproj|c:\\users\\roaa\\source\\repos\\assetspro\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7EBC9649-FB7C-4AB7-9895-2FE8FED9DED7}|AssetsPro.csproj|solutionrelative:views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7EBC9649-FB7C-4AB7-9895-2FE8FED9DED7}|AssetsPro.csproj|c:\\users\\roaa\\source\\repos\\assetspro\\views\\user\\addusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7EBC9649-FB7C-4AB7-9895-2FE8FED9DED7}|AssetsPro.csproj|solutionrelative:views\\user\\addusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7EBC9649-FB7C-4AB7-9895-2FE8FED9DED7}|AssetsPro.csproj|c:\\users\\roaa\\source\\repos\\assetspro\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7EBC9649-FB7C-4AB7-9895-2FE8FED9DED7}|AssetsPro.csproj|solutionrelative:views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7EBC9649-FB7C-4AB7-9895-2FE8FED9DED7}|AssetsPro.csproj|c:\\users\\roaa\\source\\repos\\assetspro\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EBC9649-FB7C-4AB7-9895-2FE8FED9DED7}|AssetsPro.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7EBC9649-FB7C-4AB7-9895-2FE8FED9DED7}|AssetsPro.csproj|c:\\users\\roaa\\source\\repos\\assetspro\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EBC9649-FB7C-4AB7-9895-2FE8FED9DED7}|AssetsPro.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7EBC9649-FB7C-4AB7-9895-2FE8FED9DED7}|AssetsPro.csproj|c:\\users\\roaa\\source\\repos\\assetspro\\viewmodel\\adduserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EBC9649-FB7C-4AB7-9895-2FE8FED9DED7}|AssetsPro.csproj|solutionrelative:viewmodel\\adduserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7EBC9649-FB7C-4AB7-9895-2FE8FED9DED7}|AssetsPro.csproj|c:\\users\\roaa\\source\\repos\\assetspro\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EBC9649-FB7C-4AB7-9895-2FE8FED9DED7}|AssetsPro.csproj|solutionrelative:models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7EBC9649-FB7C-4AB7-9895-2FE8FED9DED7}|AssetsPro.csproj|c:\\users\\roaa\\source\\repos\\assetspro\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EBC9649-FB7C-4AB7-9895-2FE8FED9DED7}|AssetsPro.csproj|solutionrelative:controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -50,132 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\Views\\Attendance\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Attendance\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\Views\\Attendance\\Index.cshtml",
-              "RelativeToolTip": "Views\\Attendance\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-22T09:04:45.716Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AddEmp.cshtml",
-              "DocumentMoniker": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\Views\\Employee\\AddEmp.cshtml",
-              "RelativeDocumentMoniker": "Views\\Employee\\AddEmp.cshtml",
-              "ToolTip": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\Views\\Employee\\AddEmp.cshtml",
-              "RelativeToolTip": "Views\\Employee\\AddEmp.cshtml",
-              "ViewState": "AgIAAHwAAAAAAAAAAAAAAJQAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-22T09:04:20.193Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\Views\\Employee\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Employee\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\Views\\Employee\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Employee\\Edit.cshtml",
-              "ViewState": "AgIAAIYAAAAAAAAAAAAAAJcAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-22T08:52:15.109Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\Views\\User\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\User\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\Views\\User\\Edit.cshtml",
-              "RelativeToolTip": "Views\\User\\Edit.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAgwDEAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-22T08:50:13.329Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T08:29:24.898Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RoleController.cs",
-              "DocumentMoniker": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\Controllers\\RoleController.cs",
-              "RelativeDocumentMoniker": "Controllers\\RoleController.cs",
-              "ToolTip": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\Controllers\\RoleController.cs",
-              "RelativeToolTip": "Controllers\\RoleController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC8AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T08:27:46.756Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MyDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\Models\\MyDbContext.cs",
-              "RelativeDocumentMoniker": "Models\\MyDbContext.cs",
-              "ToolTip": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\Models\\MyDbContext.cs",
-              "RelativeToolTip": "Models\\MyDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T12:55:43.29Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AddUserViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\ViewModel\\AddUserViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModel\\AddUserViewModel.cs",
-              "ToolTip": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\ViewModel\\AddUserViewModel.cs",
-              "RelativeToolTip": "ViewModel\\AddUserViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T16:42:07.384Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AddUsers.cshtml",
-              "DocumentMoniker": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\Views\\User\\AddUsers.cshtml",
-              "RelativeDocumentMoniker": "Views\\User\\AddUsers.cshtml",
-              "ToolTip": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\Views\\User\\AddUsers.cshtml",
-              "RelativeToolTip": "Views\\User\\AddUsers.cshtml",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAEIAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-19T16:40:21.987Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\Roaa\\source\\repos\\AssetsPro\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T16:40:46.474Z"
             }
           ]
         }

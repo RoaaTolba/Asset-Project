@@ -40,7 +40,6 @@ public class EmpService : IEmpService
     {
         return empRepo.GetById(id);
     }
-
     public bool SaveEdit(int id, Employee employee)
     {
         if (employee == null)
@@ -52,9 +51,7 @@ public class EmpService : IEmpService
             empRepo.Update(id, employee);
             return true;
         }
-
     }
-
     public bool deleteEmp(int id)
     {
         if (id == 0)
